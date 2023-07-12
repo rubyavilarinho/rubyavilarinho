@@ -1,4 +1,4 @@
 ### Olá, eu sou a Rubya Vilarinho 👋🏽
 
-- 🌱 Estudando HTML | CSS | JavaScript
+- 🌱 Estudando JAVA
 - 😄 Pronomes: ela/dela
