@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=rcsv0dev&color=ff69b4"><br>
-<div>
+<div align="center">
   <a href="https://github.com/rcsv0dev">
-    <img align="center" src="welcome.png" width="500">
+    <img src="welcome.png" width="500">
   </a>
 </div>
 <br>
@@ -19,7 +19,7 @@
 </div><br>
 
 <div align="left">
-Sou uma entusiasta da tecnologia. Com mais de uma década na área da estética, adquiri habilidades de dedicação e atenção aos detalhes que agora trago comigo em minha jornada de transição para a carreira de desenvolvimento. 🌟
+Sou a Rubya, uma entusiasta da tecnologia. Com mais de uma década na área da estética, adquiri habilidades de dedicação e atenção aos detalhes que agora trago comigo em minha jornada de transição para a carreira de desenvolvimento. 🌟
 <br><br>
   
 <b>Além da programação...</b><br>
