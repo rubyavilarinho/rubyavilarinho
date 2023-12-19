@@ -19,7 +19,7 @@
 </div><br>
 
 <div align="left">
-Sou a Rubya, uma entusiasta da tecnologia. Com mais de uma década na área da estética, adquiri habilidades de dedicação e atenção aos detalhes que agora trago comigo em minha jornada de transição para a carreira de desenvolvimento. 🌟
+Sou a Rubya, uma entusiasta da tecnologia.  🌟
 <br><br>
   
 <b>Além da programação...</b><br>
